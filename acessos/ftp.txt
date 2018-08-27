@@ -1,0 +1,3 @@
+host: beng.webludica.com.br
+usuário: user@beng.webludica.com.br
+senha: bengbiju2018

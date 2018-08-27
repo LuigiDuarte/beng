@@ -1,0 +1,4 @@
+host: 149.56.247.112
+hostname: thiagoabreu_beng
+user:thiagoabreu_beng_user
+pass:bengbiju2018
