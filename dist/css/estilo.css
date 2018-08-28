@@ -165,6 +165,34 @@ hr{
 	width:100%;  
 }
 
+.btn-envio{
+	background: #fff !important;
+	border: 1px solid #de85d5 !important;
+	color: #de85d5;
+}
+.btn-envio:hover{
+	background: #de85d5 !important;
+	color: #fff;
+}
+
+.contato-form:hover{
+	background: #f2f2f2;
+}
+.contato-form2:hover{
+	background: #ddd;
+}
+
+.link-wpp{
+	color: #0c8599;
+}
+.link-wpp:hover{
+	text-decoration: none;
+	color: #17740c;
+}
+.link-wpp:visited{
+
+}
+
 
 
 
